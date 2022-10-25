@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devendra Johari</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
+<img align="right" alt="Developer" width="400" src="https://enacteservices.com/wp-content/themes/twentytwenty/images/hire-developer/animation_500_l4zc9j5g.gif">
 - 🔭 I’m currently working on [Classification and Identification of Heavy Vehicles.](https://github.com/DevendraJohari24/Classification-and-Identification-of-Heavy-Vehicles)
 
 - 🌱 I’m currently learning **Vagrant, AWS, Devops**
@@ -15,8 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/devendrajohari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devendrajohari" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/devendrajohari9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="devendrajohari9" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/devendrajohari9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devendrajohari9" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@devendrajohari9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@devendrajohari9" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,3 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devendrajohari24&show_icons=true&locale=en&layout=compact" alt="devendrajohari24" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devendrajohari24&show_icons=true&locale=en" alt="devendrajohari24" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devendrajohari24&" alt="devendrajohari24" /></p>
