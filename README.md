@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devendra Johari</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align="right" alt="Developer" width="200" src="https://enacteservices.com/wp-content/themes/twentytwenty/images/hire-developer/animation_500_l4zc9j5g.gif">
+<img align="right" alt="Developer" width="250" src="https://enacteservices.com/wp-content/themes/twentytwenty/images/hire-developer/animation_500_l4zc9j5g.gif">
 - 🔭 I’m currently working on [Classification and Identification of Heavy Vehicles.](https://github.com/DevendraJohari24/Classification-and-Identification-of-Heavy-Vehicles)
 
 - 🌱 I’m currently learning **Vagrant, AWS, Devops**
