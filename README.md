@@ -4,7 +4,7 @@
 <img align="right" alt="Developer" width="250" src="https://enacteservices.com/wp-content/themes/twentytwenty/images/hire-developer/animation_500_l4zc9j5g.gif">
 - 🔭 I’m currently working on [Classification and Identification of Heavy Vehicles.](https://github.com/DevendraJohari24/Classification-and-Identification-of-Heavy-Vehicles)
 
-- 🌱 I’m currently learning **Vagrant, AWS, Devops**
+- 🌱 I’m currently learning **TypeScript, Flutter**
 
 - 💬 Ask me about **React, Machine Learning**
 
