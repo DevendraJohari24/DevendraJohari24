@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software developer from India</h3>
 
 <img align="right" alt="Developer" width="250" src="https://enacteservices.com/wp-content/themes/twentytwenty/images/hire-developer/animation_500_l4zc9j5g.gif">
-- 🔭 I’m currently working on [Classification and Identification of Heavy Vehicles.](https://github.com/DevendraJohari24/Classification-and-Identification-of-Heavy-Vehicles)
+- 🔭 I’m currently working on [E-commerce Shopping Website 'Shopsy'.](https://github.com/DevendraJohari24/Shopsy)
 
 - 🌱 I’m currently learning **Next JS, React Native**
 
